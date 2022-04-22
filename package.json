@@ -1,0 +1,20 @@
+{
+  "name": "totsuka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.2.9",
+    "ms": "^2.1.3",
+    "package.json": "^2.0.1",
+    "sdhandler": "^1.2.1"
+  }
+}
